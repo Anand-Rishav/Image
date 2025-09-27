@@ -1,0 +1,7 @@
+streamlit
+numpy
+tensorflow.keras.preprocessing.sequence
+tensorflow.keras.models
+tensorflow.keras.preprocessing.image
+matplotlib.pyplot
+pickle
